@@ -6,11 +6,8 @@ Our privacy policy will help you understand what information we collect at *TheV
 *TheVoltz* built the *The Voltz Weather* app as a free app. This SERVICE is provided by *TheVoltz* at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location. The information that we request will be retained by us and used as described in this privacy policy.
-
 ### Location Information
-The app runs on location information transmitted from the users' mobile phones. Without permissions to access the mobile's location, this app will not be able to function properly. We do not store or share or use users' location data anywhere.
+We don't get or use any of your location information. All you need to do is to search for location and get the weather details of that location.
 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
